@@ -1,0 +1,19 @@
+.header {
+    background-color: #e5e7eb;
+    padding: 1rem;
+  }
+
+  .navListWarpper {
+    width: 50%;
+    .navList {
+      display: flex;
+      justify-content: space-between;
+      list-style: none;
+      margin: 0;
+    }
+  }
+
+
+  .navLink {
+    color: #1f2937;
+  }
